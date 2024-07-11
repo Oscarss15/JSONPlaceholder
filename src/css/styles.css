@@ -1,0 +1,27 @@
+#textselect {
+  background-color: #303434;
+  width: 180px;
+  height: 40px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  float: left;
+}
+#select {
+  float: left;
+  background-color: #303434;
+  width: 180px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#containerdata {
+  width: 360px;
+  height: 110px;
+  background-color: grey;
+}
+p {
+  margin-left: 20px;
+}
